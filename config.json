@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvonnect",
+        "uuid": 13036554,
+        "checksum": "zya6hm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
